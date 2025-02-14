@@ -1433,7 +1433,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #be7af4;
+    background: #7591f5;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3714,7 +3714,7 @@ figure.highlight {
   border-radius: 10px;
 }
 .card-grid {
-  text-align: left;
+  text-align: center;
 }
 .posts-expand .post-body img {
   margin: 0 auto 25px;
