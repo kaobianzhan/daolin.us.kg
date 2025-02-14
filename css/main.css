@@ -1433,7 +1433,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #6e50ff;
+    background: #be7af4;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3703,6 +3703,75 @@ strong {
 /* 代码块透明度 */
 figure.highlight {
   opacity: 0.9;
+}
+/* 卡片网格友链 */
+.polaroid {
+  width: 30%;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 #000, 0 6px 20px 0 #000;
+  margin-bottom: 25px;
+  display: inline-block;
+  border-radius: 10px;
+}
+.card-grid {
+  text-align: left;
+}
+.posts-expand .post-body img {
+  margin: 0 auto 25px;
+}
+.posts-expand .post-body img {
+  box-sizing: border-box;
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.containery {
+  text-align: center;
+  padding: 10px 20px;
+}
+.btn {
+  display: inline-block;
+  padding: 0 20px;
+  font-size: 14px;
+  color: #555;
+  background: #fff;
+  border: 2px solid #555;
+  text-decoration: none;
+  border-radius: 2px;
+  transition-property: background-color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0s;
+  line-height: 2;
+}
+.btn:hover {
+  background-color: #87cefa;
+}
+a {
+  outline: none;
+  overflow-wrap: break-word;
+}
+a:-webkit-any-link {
+  cursor: pointer;
+}
+.containery p {
+  margin: 15px 0 10px 0;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 @keyframes sliding {
   to {
