@@ -4,7 +4,7 @@
     <title>Hexo博客文章首字母缩进方案</title>
     <url>/posts/b561d3ab.html</url>
     <content><![CDATA[<div class="post-summary-wrapper"><div class="summary-title"><span><i class="fa-solid fa-list"></i></span>
-<span>文章摘要</span></div><div class="summary-content">本教程虽基于Hexo框架的NexT主题，但按理说应该通用Hexo框架所有主题。目前在Hexo框架NexT主题上采用此方案，是切实可行的。</div></div><span id="more"></span>
+<span>文章摘要</span></div><div class="summary-content">本教程基于Hexo框架的NexT主题。</div></div><span id="more"></span>
 
 
 <h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><p><strong>1、在主题的CSS文件中添加P标签代码</strong></p>
@@ -39,7 +39,7 @@
     <title>NexT主题归档、分类、标签页面中引入ECharts统计图</title>
     <url>/posts/3273572b.html</url>
     <content><![CDATA[<div class="post-summary-wrapper"><div class="summary-title"><span><i class="fa-solid fa-list"></i></span>
-<span>文章摘要</span></div><div class="summary-content">本教程主要针对Hexo框架的NexT主题，在博客的归档、分类、标签页面中引入ECharts统计图。</div></div><span id="more"></span>
+<span>文章摘要</span></div><div class="summary-content">本教程基于Hexo框架的NexT主题。</div></div><span id="more"></span>
 
 
 <mark class="label primary">效果图</mark>
@@ -95,10 +95,10 @@
       </tags>
   </entry>
   <entry>
-    <title>提取Hugo框架NexT主题友情链接样式到Hexo框架NexT主题中使用</title>
+    <title>NexT主题添加友情链接</title>
     <url>/posts/c1803769.html</url>
     <content><![CDATA[<div class="post-summary-wrapper"><div class="summary-title"><span><i class="fa-solid fa-list"></i></span>
-<span>文章摘要</span></div><div class="summary-content">本教程虽基于Hexo框架的NexT主题，理论上Hexo框架其它主题也能用。对于NexT主题，将CSS代码放在styles.styl文件里，可以在你的任意一篇文章中插入Flinks友链。如果是将CSS代码添加到友链的index.md文件中，那就只能在友链中使用。</div></div><span id="more"></span>
+<span>文章摘要</span></div><div class="summary-content">本教程基于Hexo框架的NexT主题。</div></div><span id="more"></span>
 
 <h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><p><strong>1、主题CSS文件中添加代码</strong></p>
 <p><code>在blog/source/_data/styles.styl文件里添加下面的代码：</code></p>
@@ -126,7 +126,7 @@
     <title>NexT主题添加卡片网格友链</title>
     <url>/posts/5061af98.html</url>
     <content><![CDATA[<div class="post-summary-wrapper"><div class="summary-title"><span><i class="fa-solid fa-list"></i></span>
-<span>文章摘要</span></div><div class="summary-content">本教程虽基于Hexo框架的NexT主题，理论上Hexo框架其它主题也能用。对于NexT主题，将CSS代码放在styles.styl文件里，可以在你的任意一篇文章中插入卡片网格友链。如果是将CSS代码添加到友链的index.md文件中，那就只能在友链中使用。</div></div><span id="more"></span>
+<span>文章摘要</span></div><div class="summary-content">本教程基于Hexo框架的NexT主题。</div></div><span id="more"></span>
 
 <h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><p><strong>1、主题CSS文件中添加代码</strong></p>
 <p><code>在blog/source/_data/styles.styl文件里添加下面的代码：</code></p>
